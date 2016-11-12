@@ -1,0 +1,943 @@
+Time,LocationID,ScreenX,ScreenY,City,Province,Country,Continent,Lat,Long,DeviceType,Section
+0,chur_xrio,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Riometer,CAN-MB
+0,fsim_xrio,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Riometer,CAN-NT
+6,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+10,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+16,atha_feso-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Proton Aurora Photometer,CAN-AB
+24,atha_msp-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Multispectral Photometer,CAN-AB
+33,pina_xrio,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Riometer,CAN-MB
+34,chbg_themis16,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,Real-time ASI Images,CAN-QC
+34,kian_themis22,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,Real-time ASI Images,USA-AK
+34,kuuj_themis13,1377,936,Kuujjuaq,Quebec,CAN,NA,58.16,-68.53,Real-time ASI Images,CAN-QC
+38,daws_xrio,496,646,Dawson,Yukon,CAN,NA,64,-139.1,Riometer,CAN-YT
+40,fsmi_xrio,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Riometer,CAN-NT
+40,pina_rainbow-02,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+45,rank_xrio,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Riometer,CAN-NU
+46,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+46,isll_xrio,996,1080,Island Lake,Manitoba,CAN,NA,53.9,-94.7,Riometer,CAN-MB
+57,gill_rainbow-03,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+57,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+58,resu_security-06,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+58,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+60,chur_xrio,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Riometer,CAN-MB
+60,fsim_xrio,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Riometer,CAN-NT
+62,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+63,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+65,luck_feso-02,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Proton Aurora Photometer,CAN-SK
+66,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+68,kian_themis-gmag,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,THEMIS Magnetometer,USA-AK
+68,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+69,gbay_themis-gmag,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Magnetometer,CAN-NL
+69,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+69,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+70,chbg_themis-gmag,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Magnetometer,CAN-QC
+70,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+70,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+78,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+78,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+82,chur_iti-05,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Remote IT Infrastructure,CAN-MB
+83,file_server-19,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+83,kakt_rego-798,564,460,Kaktovik,Alaska,USA,NA,51.08,-114.13,Redline Camera,USA-AK
+84,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Redline Camera,CAN-NU
+85,aurora1_server-03,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+85,talon_rao-01,678,1110,Rothney (RAO),Alberta,CAN,NA,51.08,-114.13,Weather Systems,CAN-AB
+86,whit_gbo-01,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Observatory,CAN-YT
+87,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Redline Camera,CAN-MB
+88,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Redline Camera,CAN-NT
+88,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Redline Camera,CAN-NT
+88,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+88,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Redline Camera,NOR-Svalbard
+89,gaia_server-17,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+89,kakt_rego-798,564,460,Kaktovik,Alaska,USA,NA,51.08,-114.13,Real-time ASI Images,USA-AK
+89,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+93,calg_rego-650,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Redline Camera,CAN-AB
+93,kian_themis-gmag,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,THEMIS Magnetometer,USA-AK
+94,core-data_server-02,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+94,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+95,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+96,nrsq_gbo-23,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,THEMIS Observatory,GRL-KQ
+97,pina_iti-07,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Remote IT Infrastructure,CAN-MB
+97,rabb_rainbow-08,795,1095,Rabbit Lake,Manitoba,CAN,NA,58.23,-103.68,Full Colour Camera,CAN-MB
+100,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+100,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+100,fsmi_xrio,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Riometer,CAN-NT
+100,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+101,fsim_themis04,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+101,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+101,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+101,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+101,yknf_slr-09,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+102,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+102,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+102,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+102,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+102,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+103,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+103,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+103,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+103,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+103,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+103,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+103,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+104,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+104,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+104,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+104,resu_security-01,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+104,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+105,chbg_themis-gmag,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Magnetometer,CAN-QC
+105,rank_xrio,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Riometer,CAN-NU
+105,resu_security-02,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+105,resu_security-03,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+105,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+106,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+106,gbay_gbo-14,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Observatory,CAN-NL
+108,ns3_server-52,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+110,rank_gbo-09,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,THEMIS Observatory,CAN-NU
+114,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+114,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+115,fsmi_iti-03,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Remote IT Infrastructure,CAN-NT
+115,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+116,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+117,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+117,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+117,whit_gbo-01,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Observatory,CAN-YT
+118,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+118,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+118,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+119,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+120,chur_xrio,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Riometer,CAN-MB
+120,fsim_xrio,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Riometer,CAN-NT
+120,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+120,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+122,themis-data1_server-06,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+122,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+123,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+124,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Full Colour Camera,CAN-AB
+124,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Redline Camera,CAN-MB
+124,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+124,kian_themis22,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,Real-time ASI Images,USA-AK
+125,chbg_themis-gmag,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Magnetometer,CAN-QC
+126,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+127,rabb_rainbow-08,795,1095,Rabbit Lake,Manitoba,CAN,NA,58.23,-103.68,Full Colour Camera,CAN-MB
+130,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+131,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+132,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+134,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+134,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+134,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+134,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+134,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+134,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+134,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+135,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+135,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+135,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+135,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+136,snkq_gbo-22,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,THEMIS Observatory,CAN-NU
+137,ns1_server-50,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+141,pina_iti-07,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Remote IT Infrastructure,CAN-MB
+142,fsmi_gbo-10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,THEMIS Observatory,CAN-NT
+145,project-star1_server-05,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+145,talon_rao-01,678,1110,Rothney (RAO),Alberta,CAN,NA,51.08,-114.13,Weather Systems,CAN-AB
+146,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+146,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+146,fsim_themis04,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+146,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Redline Camera,CAN-NT
+147,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+148,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+148,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+149,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+150,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+150,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+151,ns4_server-53,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+151,pina_msp-04,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Multispectral Photometer,CAN-MB
+153,calg_rego-650,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Redline Camera,CAN-AB
+153,pina_xrio,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Riometer,CAN-MB
+153,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+157,mcmu_iti-02,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Remote IT Infrastructure,CAN-AB
+158,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+159,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+160,fsmi_xrio,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Riometer,CAN-NT
+160,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+161,yknf_slr-09,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+162,fsmi_rainbow-11,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Full Colour Camera,CAN-NT
+162,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+163,kapu_gbo-15,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Observatory,CAN-ON
+163,kian_themis-gmag,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,THEMIS Magnetometer,USA-AK
+163,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+163,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+164,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+165,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+165,resu_security-01,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+165,resu_security-02,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+165,resu_security-03,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+165,resu_security-06,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+166,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+166,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+170,fsim_gbo-21,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,THEMIS Observatory,CAN-NT
+171,chbg_gbo-17,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Observatory,CAN-QC
+173,rank_iti-06,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Remote IT Infrastructure,CAN-NU
+173,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+176,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+176,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+178,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+179,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+179,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+180,chur_xrio,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Riometer,CAN-MB
+180,fsim_xrio,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Riometer,CAN-NT
+180,pina_rainbow-02,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Full Colour Camera,CAN-MB
+180,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+181,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+181,gbay_gbo-14,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Observatory,CAN-NL
+181,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+181,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+183,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+184,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Redline Camera,CAN-MB
+184,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+186,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+190,aurora-star1_server-04,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+190,chbg_themis-gmag,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Magnetometer,CAN-QC
+190,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+192,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+192,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+192,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+193,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+193,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+193,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+193,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+194,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+194,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+194,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+195,mcmu_iti-02,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Remote IT Infrastructure,CAN-AB
+195,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+195,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+195,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+195,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Redline Camera,CAN-SK
+197,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+197,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+197,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+201,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Redline Camera,NOR-Svalbard
+201,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Redline Camera,CAN-NU
+202,gill_rainbow-03,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Full Colour Camera,CAN-MB
+204,gbay_themis-gmag,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Magnetometer,CAN-NL
+204,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+205,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+205,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+205,whit_gbo-01,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Observatory,CAN-YT
+207,ns2_server-51,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+209,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+209,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+210,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+210,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+210,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+211,pina_gbo-16,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,THEMIS Observatory,CAN-MB
+212,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+212,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+213,calg_rego-650,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Redline Camera,CAN-AB
+213,resu_security-01,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+214,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+214,chbg_themis16,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,Real-time ASI Images,CAN-QC
+214,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+214,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+214,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+214,kian_themis22,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,Real-time ASI Images,USA-AK
+214,kuuj_themis13,1377,936,Kuujjuaq,Quebec,CAN,NA,58.16,-68.53,Real-time ASI Images,CAN-QC
+214,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+214,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+214,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+214,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+214,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+216,star-rt1_server-14,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+217,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+218,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+220,fsmi_xrio,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Riometer,CAN-NT
+223,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+223,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+225,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+226,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+226,isll_xrio,996,1080,Island Lake,Manitoba,CAN,NA,53.9,-94.7,Riometer,CAN-MB
+226,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+227,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+228,berk_gbo-05,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,THEMIS Observatory,CAN-AB
+228,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+228,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+229,gbay_themis-gmag,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Magnetometer,CAN-NL
+229,resu_security-02,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+229,resu_security-03,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+229,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+229,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+230,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+233,kian_gbo-20,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,THEMIS Observatory,USA-AK
+237,gill_rainbow-03,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Full Colour Camera,CAN-MB
+237,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+237,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+238,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+240,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+240,fsim_xrio,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Riometer,CAN-NT
+241,daws_iti-17,496,646,Dawson,Yukon,CAN,NA,64,-139.1,Remote IT Infrastructure,CAN-YT
+241,pina_gbo-16,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,THEMIS Observatory,CAN-MB
+242,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+242,gill_rainbow-03,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+243,gill_iti-12,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Remote IT Infrastructure,CAN-MB
+243,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+243,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+244,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Redline Camera,CAN-MB
+245,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+245,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+246,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+247,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+247,pina_rainbow-02,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Full Colour Camera,CAN-MB
+250,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+251,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+252,rabb_iti-15,795,1095,Rabbit Lake,Manitoba,CAN,NA,58.23,-103.68,Remote IT Infrastructure,CAN-MB
+255,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Redline Camera,CAN-SK
+256,calg_gbo-13,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,THEMIS Observatory,CAN-AB
+256,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+257,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+257,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+257,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+258,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+258,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+258,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+258,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+258,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+259,norstar-data1_server-07,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+259,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+259,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+259,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+259,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+259,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Redline Camera,CAN-NU
+261,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+262,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Redline Camera,NOR-Svalbard
+265,berk_gbo-05,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,THEMIS Observatory,CAN-AB
+266,ns4_server-53,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+266,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Redline Camera,CAN-NT
+268,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Redline Camera,CAN-NT
+268,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+269,gbay_themis-gmag,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Magnetometer,CAN-NL
+269,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+271,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+273,calg_rego-650,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Redline Camera,CAN-AB
+273,kian_themis-gmag,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,THEMIS Magnetometer,USA-AK
+273,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+273,pina_xrio,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Riometer,CAN-MB
+274,chbg_gbo-17,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Observatory,CAN-QC
+275,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+276,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+276,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+277,fsmi_rainbow-11,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Full Colour Camera,CAN-NT
+280,fsmi_xrio,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Riometer,CAN-NT
+281,yknf_slr-09,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+282,fsim_iti-11,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Remote IT Infrastructure,CAN-NT
+282,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+282,pina_rainbow-02,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Full Colour Camera,CAN-MB
+283,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+285,themis-data1_server-06,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+285,chbg_themis-gmag,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Magnetometer,CAN-QC
+286,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+287,fsim_themis04,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+289,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+289,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+290,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+291,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+291,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+291,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+292,pina_gbo-16,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,THEMIS Observatory,CAN-MB
+292,rabb_iti-15,795,1095,Rabbit Lake,Manitoba,CAN,NA,58.23,-103.68,Remote IT Infrastructure,CAN-MB
+292,resu_security-06,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+292,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+294,gbay_themis-gmag,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Magnetometer,CAN-NL
+294,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+295,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+296,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+300,berk_gbo-05,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,THEMIS Observatory,CAN-AB
+300,norstar-data1_server-07,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+300,chur_xrio,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Riometer,CAN-MB
+300,fsim_xrio,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Riometer,CAN-NT
+300,fsmi_iti-03,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Remote IT Infrastructure,CAN-NT
+302,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+302,rabb_rainbow-08,795,1095,Rabbit Lake,Manitoba,CAN,NA,58.23,-103.68,Full Colour Camera,CAN-MB
+303,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+303,fsim_themis04,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+303,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+304,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Redline Camera,CAN-MB
+304,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+304,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+305,chbg_themis-gmag,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Magnetometer,CAN-QC
+305,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+305,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+305,kakt_rego-798,564,460,Kaktovik,Alaska,USA,NA,51.08,-114.13,Real-time ASI Images,USA-AK
+305,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+306,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+306,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+306,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+307,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+307,chbg_themis16,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,Real-time ASI Images,CAN-QC
+307,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+307,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+307,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+307,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+307,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+307,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+307,kian_themis22,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,Real-time ASI Images,USA-AK
+307,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+307,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+310,fsmi_rainbow-11,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Full Colour Camera,CAN-NT
+310,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+314,gbay_themis-gmag,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Magnetometer,CAN-NL
+316,atha_feso-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Proton Aurora Photometer,CAN-AB
+316,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Redline Camera,CAN-SK
+316,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Redline Camera,CAN-NU
+317,chur_iti-05,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Remote IT Infrastructure,CAN-MB
+317,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+317,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+319,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+319,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+319,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+320,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+321,gill_iti-12,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Remote IT Infrastructure,CAN-MB
+321,tpas_gbo-06,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Observatory,CAN-MB
+322,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+322,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+322,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+323,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+325,aurora1_server-03,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+325,talon_rao-01,678,1110,Rothney (RAO),Alberta,CAN,NA,51.08,-114.13,Weather Systems,CAN-AB
+327,atha_msp-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Multispectral Photometer,CAN-AB
+327,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+328,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Redline Camera,CAN-NT
+329,gaia_server-17,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+330,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Redline Camera,CAN-NU
+333,pina_xrio,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Riometer,CAN-MB
+333,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+334,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+334,core-data_server-02,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+334,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+335,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+336,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+336,nrsq_gbo-23,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,THEMIS Observatory,GRL-KQ
+337,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+338,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+339,inuv_gbo-08,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,THEMIS Observatory,CAN-NT
+339,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+341,yknf_slr-09,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+342,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+345,rank_xrio,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Riometer,CAN-NU
+346,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+346,fsim_iti-11,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Remote IT Infrastructure,CAN-NT
+346,isll_xrio,996,1080,Island Lake,Manitoba,CAN,NA,53.9,-94.7,Riometer,CAN-MB
+346,whit_gbo-01,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Observatory,CAN-YT
+347,atha_gbo-02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,THEMIS Observatory,CAN-AB
+350,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+350,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+350,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+351,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+352,project-star1_server-05,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+352,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+353,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+353,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+353,resu_security-03,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+353,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+354,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+357,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Redline Camera,NOR-Svalbard
+358,gill_rainbow-03,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Full Colour Camera,CAN-MB
+360,star-rt1_server-14,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+360,chur_xrio,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Riometer,CAN-MB
+360,fsim_xrio,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Riometer,CAN-NT
+362,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+363,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Full Colour Camera,CAN-AB
+363,kian_themis-gmag,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,THEMIS Magnetometer,USA-AK
+363,luck_feso-02,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Proton Aurora Photometer,CAN-SK
+364,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+364,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Redline Camera,CAN-MB
+364,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+365,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+366,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+367,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+367,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+368,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+368,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+368,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+368,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+369,inuv_gbo-08,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,THEMIS Observatory,CAN-NT
+369,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+370,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+375,fsmi_iti-03,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Remote IT Infrastructure,CAN-NT
+375,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Redline Camera,CAN-SK
+376,file_server-19,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+376,rank_gbo-09,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,THEMIS Observatory,CAN-NU
+378,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+379,chur_iti-05,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Remote IT Infrastructure,CAN-MB
+380,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+381,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+382,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+383,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+383,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+385,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+385,aurora1_server-03,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+385,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+385,talon_rao-01,678,1110,Rothney (RAO),Alberta,CAN,NA,51.08,-114.13,Weather Systems,CAN-AB
+385,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+385,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+386,pina_iti-07,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Remote IT Infrastructure,CAN-MB
+387,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Redline Camera,CAN-NT
+387,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+388,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+389,isll_iti-09,996,1080,Island Lake,Manitoba,CAN,NA,53.9,-94.7,Remote IT Infrastructure,CAN-MB
+393,calg_rego-650,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Redline Camera,CAN-AB
+395,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+397,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+398,ns1_server-50,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+398,pina_rainbow-02,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+399,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+400,fsmi_gbo-10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,THEMIS Observatory,CAN-NT
+400,fsmi_xrio,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Riometer,CAN-NT
+400,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+401,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+401,yknf_slr-09,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+402,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+402,resu_security-01,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+402,resu_security-02,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+402,resu_security-03,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+403,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+403,chbg_themis16,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,Real-time ASI Images,CAN-QC
+403,fsmi_rainbow-11,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Full Colour Camera,CAN-NT
+403,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+403,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+403,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+403,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+403,kian_themis22,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,Real-time ASI Images,USA-AK
+403,kuuj_themis13,1377,936,Kuujjuaq,Quebec,CAN,NA,58.16,-68.53,Real-time ASI Images,CAN-QC
+403,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+404,pina_rainbow-02,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Full Colour Camera,CAN-MB
+404,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+405,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+406,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+406,isll_xrio,996,1080,Island Lake,Manitoba,CAN,NA,53.9,-94.7,Riometer,CAN-MB
+408,pina_msp-04,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Multispectral Photometer,CAN-MB
+408,snkq_gbo-22,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,THEMIS Observatory,CAN-NU
+413,whit_gbo-01,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Observatory,CAN-YT
+415,fsmi_iti-03,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Remote IT Infrastructure,CAN-NT
+415,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+415,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+416,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+416,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+417,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+417,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+418,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+418,gill_gbo-19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,THEMIS Observatory,CAN-MB
+418,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+418,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+419,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+420,chur_xrio,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Riometer,CAN-MB
+420,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+422,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+423,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Full Colour Camera,CAN-AB
+425,core-data_server-02,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+426,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+428,themis-data1_server-06,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+430,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+430,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+431,ns1_server-50,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+431,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+433,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+434,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+434,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+434,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+434,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+435,fsmi_gbo-10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,THEMIS Observatory,CAN-NT
+435,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Redline Camera,CAN-SK
+435,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+437,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+439,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+440,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+441,gbay_gbo-14,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Observatory,CAN-NL
+441,pina_iti-07,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Remote IT Infrastructure,CAN-MB
+445,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+445,talon_rao-01,678,1110,Rothney (RAO),Alberta,CAN,NA,51.08,-114.13,Weather Systems,CAN-AB
+446,fsim_themis04,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+446,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+447,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+447,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+447,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+448,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Redline Camera,CAN-NT
+448,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+448,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+448,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+449,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+449,gaia_server-17,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+449,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+450,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+450,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+453,calg_rego-650,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Redline Camera,CAN-AB
+454,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+457,snkq_gbo-22,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,THEMIS Observatory,CAN-NU
+458,pina_msp-04,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Multispectral Photometer,CAN-MB
+459,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+460,mcmu_iti-02,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Remote IT Infrastructure,CAN-AB
+460,fsmi_xrio,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Riometer,CAN-NT
+461,yknf_slr-09,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+462,aurora-star1_server-04,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+462,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+462,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+463,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+464,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+464,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+464,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+464,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+465,fsim_gbo-21,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,THEMIS Observatory,CAN-NT
+465,rank_xrio,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Riometer,CAN-NU
+466,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+466,isll_xrio,996,1080,Island Lake,Manitoba,CAN,NA,53.9,-94.7,Riometer,CAN-MB
+466,resu_security-03,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+466,resu_security-06,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+467,kapu_gbo-15,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Observatory,CAN-ON
+467,pgeo_xrio,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,Riometer,CAN-BC
+473,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+476,chbg_gbo-17,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Observatory,CAN-QC
+477,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+478,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+479,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+480,chur_xrio,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Riometer,CAN-MB
+480,fsim_xrio,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Riometer,CAN-NT
+480,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+481,gbay_gbo-14,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Observatory,CAN-NL
+481,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+481,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+482,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Full Colour Camera,CAN-AB
+482,rabb_rainbow-08,795,1095,Rabbit Lake,Manitoba,CAN,NA,58.23,-103.68,Full Colour Camera,CAN-MB
+483,rank_iti-06,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Remote IT Infrastructure,CAN-NU
+484,atha_feso-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Proton Aurora Photometer,CAN-AB
+486,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+487,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+488,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+490,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+491,snkq_gbo-22,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,THEMIS Observatory,CAN-NU
+492,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+493,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+494,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+494,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+495,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+495,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+496,aurora-star1_server-04,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+496,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+496,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Redline Camera,CAN-SK
+497,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+498,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+499,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+499,ns3_server-52,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+499,chbg_themis16,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,Real-time ASI Images,CAN-QC
+499,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+499,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+499,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+499,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+499,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+499,kuuj_themis13,1377,936,Kuujjuaq,Quebec,CAN,NA,58.16,-68.53,Real-time ASI Images,CAN-QC
+499,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+502,ns1_server-50,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+503,project-star1_server-05,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+504,fsmi_gbo-10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,THEMIS Observatory,CAN-NT
+505,talon_rao-01,678,1110,Rothney (RAO),Alberta,CAN,NA,51.08,-114.13,Weather Systems,CAN-AB
+508,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Redline Camera,CAN-NT
+508,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+509,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+509,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+510,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+510,chbg_themis-gmag,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Magnetometer,CAN-QC
+510,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+511,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+511,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+512,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+513,calg_rego-650,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Redline Camera,CAN-AB
+513,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+513,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+513,pina_xrio,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Riometer,CAN-MB
+514,gbay_gbo-14,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Observatory,CAN-NL
+515,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+515,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+515,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+518,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+519,fykn_gbo-12,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,THEMIS Observatory,USA-AK
+520,daws_iti-17,496,646,Dawson,Yukon,CAN,NA,64,-139.1,Remote IT Infrastructure,CAN-YT
+520,mcmu_iti-02,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Remote IT Infrastructure,CAN-AB
+520,fsmi_xrio,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Riometer,CAN-NT
+522,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+526,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+526,isll_xrio,996,1080,Island Lake,Manitoba,CAN,NA,53.9,-94.7,Riometer,CAN-MB
+527,berk_gbo-05,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,THEMIS Observatory,CAN-AB
+527,ns4_server-53,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+527,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+527,pgeo_xrio,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,Riometer,CAN-BC
+528,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+528,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+529,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+529,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+529,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+530,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+530,resu_security-03,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+531,nrsq_gbo-23,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,THEMIS Observatory,GRL-KQ
+531,resu_security-06,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+531,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+532,calg_gbo-13,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,THEMIS Observatory,CAN-AB
+532,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+533,rank_iti-06,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Remote IT Infrastructure,CAN-NU
+536,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+537,project-star1_server-05,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+540,chur_xrio,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Riometer,CAN-MB
+540,fsim_xrio,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Riometer,CAN-NT
+542,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+542,rabb_iti-15,795,1095,Rabbit Lake,Manitoba,CAN,NA,58.23,-103.68,Remote IT Infrastructure,CAN-MB
+543,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+543,rabb_rainbow-08,795,1095,Rabbit Lake,Manitoba,CAN,NA,58.23,-103.68,Full Colour Camera,CAN-MB
+543,rank_gbo-09,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,THEMIS Observatory,CAN-NU
+543,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+544,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+545,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Redline Camera,CAN-MB
+546,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+546,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+546,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+546,kakt_rego-798,564,460,Kaktovik,Alaska,USA,NA,51.08,-114.13,Real-time ASI Images,USA-AK
+546,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+546,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+547,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+547,resu_security-07,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+547,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+547,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+550,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+554,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+554,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+555,chbg_themis-gmag,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Magnetometer,CAN-QC
+555,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+555,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+557,gill_iti-12,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Remote IT Infrastructure,CAN-MB
+558,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+558,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+559,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Redline Camera,CAN-NT
+559,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+560,chbg_gbo-17,1351,1149,Chibougamau,Quebec,CAN,NA,49.81,-74.42,THEMIS Observatory,CAN-QC
+560,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+561,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+562,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+562,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+562,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+563,norstar-data1_server-07,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+563,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Redline Camera,CAN-NU
+563,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+564,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+564,fykn_gbo-12,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,THEMIS Observatory,USA-AK
+564,kakt_rego-798,564,460,Kaktovik,Alaska,USA,NA,51.08,-114.13,Real-time ASI Images,USA-AK
+565,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+565,ns4_server-53,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+566,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+567,rabb_iti-15,795,1095,Rabbit Lake,Manitoba,CAN,NA,58.23,-103.68,Remote IT Infrastructure,CAN-MB
+569,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+571,calg_gbo-13,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,THEMIS Observatory,CAN-AB
+572,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+573,calg_rego-650,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Redline Camera,CAN-AB
+574,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+574,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+576,fsmi_rainbow-11,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Full Colour Camera,CAN-NT
+576,rank_gbo-09,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,THEMIS Observatory,CAN-NU
+577,themis-data1_server-06,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+577,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+578,kakt_rego-798,564,460,Kaktovik,Alaska,USA,NA,51.08,-114.13,Redline Camera,USA-AK
+579,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+579,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+580,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+580,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+580,fsmi_xrio,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Riometer,CAN-NT
+580,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+580,resu_security-01,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+580,resu_security-02,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+580,resu_security-03,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+580,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+581,yknf_slr-09,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+582,pina_rainbow-02,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Full Colour Camera,CAN-MB
+583,ns2_server-51,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+583,kian_themis-gmag,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,THEMIS Magnetometer,USA-AK
+585,rank_xrio,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Riometer,CAN-NU
+586,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+586,isll_xrio,996,1080,Island Lake,Manitoba,CAN,NA,53.9,-94.7,Riometer,CAN-MB
+587,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+587,pina_gbo-16,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,THEMIS Observatory,CAN-MB
+587,pgeo_xrio,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,Riometer,CAN-BC
+588,chur_iti-05,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Remote IT Infrastructure,CAN-MB
+588,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+589,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+589,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+589,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+589,kian_themis22,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,Real-time ASI Images,USA-AK
+589,kuuj_themis13,1377,936,Kuujjuaq,Quebec,CAN,NA,58.16,-68.53,Real-time ASI Images,CAN-QC
+589,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+591,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+591,daws_iti-17,496,646,Dawson,Yukon,CAN,NA,64,-139.1,Remote IT Infrastructure,CAN-YT
+592,fsim_themis04,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+592,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+593,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+594,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+595,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+595,resu_security-06,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+595,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+595,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+599,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+600,chur_xrio,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Riometer,CAN-MB
+600,fsmi_iti-03,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Remote IT Infrastructure,CAN-NT
+600,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+602,aurora1_server-03,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+602,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+605,gill_iti-12,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Remote IT Infrastructure,CAN-MB
+605,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Redline Camera,CAN-NU
+606,gill_gbo-19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,THEMIS Observatory,CAN-MB
+606,gill_xrio,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Riometer,CAN-MB
+606,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+607,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+607,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+608,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+609,tpas_gbo-06,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Observatory,CAN-MB
+610,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+610,gbay_xrio,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Riometer,CAN-NL
+610,kakt_rego-798,564,460,Kaktovik,Alaska,USA,NA,51.08,-114.13,Real-time ASI Images,USA-AK
+610,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+610,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+611,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+611,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+611,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+612,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+613,berk_gbo-05,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,THEMIS Observatory,CAN-AB
+614,atha_feso-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Proton Aurora Photometer,CAN-AB
+616,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Redline Camera,CAN-SK
+617,snkq_gbo-22,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,THEMIS Observatory,CAN-NU
+619,norstar-data1_server-07,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+619,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+620,inuv_autumn-gmag,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Autumn Magnetometer,CAN-NT
+620,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+621,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Full Colour Camera,CAN-AB
+621,ns2_server-51,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+621,luck_feso-02,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Proton Aurora Photometer,CAN-SK
+622,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+622,gbay_themis-gmag,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Magnetometer,CAN-NL
+623,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+623,redr_autumn-gmag,691,1074,Red Deer,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+624,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+625,chur_iti-05,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Remote IT Infrastructure,CAN-MB
+625,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+625,rank_themis12,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+625,talon_rao-01,678,1110,Rothney (RAO),Alberta,CAN,NA,51.08,-114.13,Weather Systems,CAN-AB
+626,atha_msp-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Multispectral Photometer,CAN-AB
+626,isll_iti-09,996,1080,Island Lake,Manitoba,CAN,NA,53.9,-94.7,Remote IT Infrastructure,CAN-MB
+627,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+627,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Redline Camera,CAN-NT
+627,rank_gbo-09,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,THEMIS Observatory,CAN-NU
+627,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+627,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Redline Camera,CAN-NU
+627,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+627,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+628,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+631,ns4_server-53,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+632,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+632,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+633,calg_rego-650,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Redline Camera,CAN-AB
+633,pina_xrio,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Riometer,CAN-MB
+638,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+639,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+640,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+640,fsmi_xrio,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Riometer,CAN-NT
+640,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+640,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+640,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+641,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+641,fsim_iti-11,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Remote IT Infrastructure,CAN-NT
+641,resu_security-02,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+641,resu_security-03,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+642,gbay_themis-gmag,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,THEMIS Magnetometer,CAN-NL
+642,yknf_slr-09,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+644,nrsq_gbo-23,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,THEMIS Observatory,GRL-KQ
+644,tpas_themis-gmag,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,THEMIS Magnetometer,CAN-MB
+646,mcmu_xrio,750,972,Fort McMurray,Alberta,CAN,NA,56.7,-111.2,Riometer,CAN-AB
+647,pgeo_xrio,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,Riometer,CAN-BC
+648,kian_themis-gmag,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,THEMIS Magnetometer,USA-AK
+649,aurora1_server-03,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+652,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+652,chur_iti-05,1017,960,Churchill,Manitoba,CAN,NA,58.8,-94.1,Remote IT Infrastructure,CAN-MB
+652,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+652,kapu_themis-gmag,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,THEMIS Magnetometer,CAN-ON
+653,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+653,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+653,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+653,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+654,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+655,gill_rainbow-03,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Full Colour Camera,CAN-MB
+655,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+655,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+656,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+656,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+656,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+656,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+658,atha_gbo-02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,THEMIS Observatory,CAN-AB
+660,star-rt1_server-14,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+662,rabb_rainbow-08,795,1095,Rabbit Lake,Manitoba,CAN,NA,58.23,-103.68,Full Colour Camera,CAN-MB
+664,pgeo_themis-gmag,573,1006,Prince George,British Columbia,CAN,NA,53.82,-122.83,THEMIS Magnetometer,CAN-BC
+665,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Redline Camera,CAN-MB
+665,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+665,luck_feso-02,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Proton Aurora Photometer,CAN-SK
+667,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+667,fsmi_iti-03,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Remote IT Infrastructure,CAN-NT
+667,inuv_gbo-08,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,THEMIS Observatory,CAN-NT
+667,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Redline Camera,CAN-SK
+668,kian_themis-gmag,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,THEMIS Magnetometer,USA-AK
+668,tpas_themis05,901,1085,The Pas,Manitoba,CAN,NA,53.99,-100.94,Real-time ASI Images,CAN-MB
+669,fsmi_rainbow-11,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Full Colour Camera,CAN-NT
+669,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+669,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+669,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+669,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+670,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+670,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+670,luck_rego-649,816,1146,Lucky Lake,Saskatchewan,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-SK
+670,rank_rego-651,1045,845,Rankin Inlet,Nunavut,CAN,NA,62.83,-92.11,Real-time ASI Images,CAN-NU
+671,atha_rainbow-01,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+671,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+671,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+671,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+672,themis-data1_server-06,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+676,file_server-19,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+678,whit_themis-gmag,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Magnetometer,CAN-YT
+679,fsmi_themis10,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+679,fykn_themis14,481,544,Fort Yukon,Alaska,USA,NA,66.56,-145.21,Real-time ASI Images,USA-AK
+679,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+679,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+679,kian_themis22,364,387,Kiana,Alaska,USA,NA,66.97,-160.44,Real-time ASI Images,USA-AK
+682,atha_themis02,714,1053,Athabasca,Alberta,CAN,NA,54.72,-113.28,Real-time ASI Images,CAN-AB
+682,gill_themis19,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+682,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Redline Camera,NOR-Svalbard
+683,kapu_themis21,1200,1200,Kapuskasing,Ontario,CAN,NA,49.39,-82.32,Real-time ASI Images,CAN-ON
+683,lyrn_rego-657,-100,-100,Longyearbyen,Svalbard,NOR,EU,78.22,15.65,Real-time ASI Images,NOR-Svalbard
+685,inuv_themis17,619,561,Inuvik,Northwest Territories,CAN,NA,68.41,-133.77,Real-time ASI Images,CAN-NT
+685,nrsq_themis01,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,Real-time ASI Images,GRL-KQ
+685,talon_rao-01,678,1110,Rothney (RAO),Alberta,CAN,NA,51.08,-114.13,Weather Systems,CAN-AB
+686,snkq_themis09,1218,1010,Sanikiluaq,Nunavut,CAN,NA,56.55,-79.23,Real-time ASI Images,CAN-NU
+687,ns2_server-51,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+687,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+687,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+688,isll_iti-09,996,1080,Island Lake,Manitoba,CAN,NA,53.9,-94.7,Remote IT Infrastructure,CAN-MB
+689,gaia_server-17,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+690,larg_autumn-gmag,678,1110,Larage,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+694,calg_rego-650,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Redline Camera,CAN-AB
+694,yknf_slr-08,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+696,pina_iti-07,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Remote IT Infrastructure,CAN-MB
+697,whit_gbo-01,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,THEMIS Observatory,CAN-YT
+698,calg_themis98,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Real-time ASI Images,CAN-AB
+699,gbay_themis03,1533,1023,Goose Bay,Newfoundland and Labrador,CAN,NA,53.32,-60.46,Real-time ASI Images,CAN-NL
+699,pina_themis18,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Real-time ASI Images,CAN-MB
+700,fsmi_rego-656,781,883,Fort Smith,Northwest Territories,CAN,NA,59.98,-111.84,Real-time ASI Images,CAN-NT
+700,gill_rego-652,1000,1014,Gillam,Manitoba,CAN,NA,56.35,-94.66,Real-time ASI Images,CAN-MB
+700,leth_autumn-gmag,711,1150,Lethbridge,Alberta,CAN,NA,51.08,-114.13,Autumn Magnetometer,CAN-AB
+701,fsim_rego-654,676,800,Fort Simpson,Northwest Territories,CAN,NA,61.76,-121.22,Real-time ASI Images,CAN-NT
+701,pina_rainbow-02,973,1188,Pinawa,Manitoba,CAN,NA,50.16,-96.07,Full Colour Camera,CAN-MB
+701,yknf_slr-09,765,810,Yellowknife,Northwest Territories,CAN,NA,62.52,-114.31,AuroraMAX,CAN-NT
+702,ns3_server-52,678,1110,Calgary,Alberta,CAN,NA,51.08,-114.13,Data Management Systems,CAN-AB
+702,resu_rego-655,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+702,resu_security-01,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+702,resu_security-02,1030,477,Resolute Bay,Nunavut,CAN,NA,74.73,-94.9,Real-time ASI Images,CAN-NU
+702,whit_themis07,470,717,Whitehorse,Yukon,CAN,NA,61.01,-135.22,Real-time ASI Images,CAN-YT
+705,nrsq_gbo-23,1741,651,Narsarsuaq,Kujalleq,GRL,NA,61.16,-45.44,THEMIS Observatory,GRL-KQ
